@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|c:\\users\\nataly\\desktop\\teste zdzcode\\api\\testezdzcodeapi\\testezdzcodeapi\\controllers\\animaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|solutionrelative:testezdzcodeapi\\controllers\\animaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|c:\\users\\nataly\\desktop\\teste zdzcode\\api\\testezdzcodeapi\\testezdzcodeapi\\models\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|solutionrelative:testezdzcodeapi\\models\\animaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|c:\\users\\nataly\\desktop\\teste zdzcode\\api\\testezdzcodeapi\\testezdzcodeapi\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|solutionrelative:testezdzcodeapi\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|c:\\users\\nataly\\desktop\\teste zdzcode\\api\\testezdzcodeapi\\testezdzcodeapi\\models\\adopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|solutionrelative:testezdzcodeapi\\models\\adopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|c:\\users\\nataly\\desktop\\teste zdzcode\\api\\testezdzcodeapi\\testezdzcodeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|solutionrelative:testezdzcodeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|c:\\users\\nataly\\desktop\\teste zdzcode\\api\\testezdzcodeapi\\testezdzcodeapi\\testezdzcodeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4224894D-53D8-4FD8-82EC-CE59F832C790}|TesteZDZCodeAPI\\TesteZDZCodeAPI.csproj|solutionrelative:testezdzcodeapi\\testezdzcodeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adopter.cs",
+              "DocumentMoniker": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Models\\Adopter.cs",
+              "RelativeDocumentMoniker": "TesteZDZCodeAPI\\Models\\Adopter.cs",
+              "ToolTip": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Models\\Adopter.cs",
+              "RelativeToolTip": "TesteZDZCodeAPI\\Models\\Adopter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:45:41.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Models\\AnimalDTO.cs",
+              "RelativeDocumentMoniker": "TesteZDZCodeAPI\\Models\\AnimalDTO.cs",
+              "ToolTip": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Models\\AnimalDTO.cs",
+              "RelativeToolTip": "TesteZDZCodeAPI\\Models\\AnimalDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:45:26.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "TesteZDZCodeAPI\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Models\\Animal.cs",
+              "RelativeToolTip": "TesteZDZCodeAPI\\Models\\Animal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:10:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimaisController.cs",
+              "DocumentMoniker": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Controllers\\AnimaisController.cs",
+              "RelativeDocumentMoniker": "TesteZDZCodeAPI\\Controllers\\AnimaisController.cs",
+              "ToolTip": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Controllers\\AnimaisController.cs",
+              "RelativeToolTip": "TesteZDZCodeAPI\\Controllers\\AnimaisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:02:09.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TesteZDZCodeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\Program.cs",
+              "RelativeToolTip": "TesteZDZCodeAPI\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:45:29.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TesteZDZCodeAPI.http",
+              "DocumentMoniker": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\TesteZDZCodeAPI.http",
+              "RelativeDocumentMoniker": "TesteZDZCodeAPI\\TesteZDZCodeAPI.http",
+              "ToolTip": "C:\\Users\\Nataly\\Desktop\\Teste ZDZCode\\API\\TesteZDZCodeAPI\\TesteZDZCodeAPI\\TesteZDZCodeAPI.http",
+              "RelativeToolTip": "TesteZDZCodeAPI\\TesteZDZCodeAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T00:53:41.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

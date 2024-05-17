@@ -1,0 +1,6 @@
+@TesteZDZCodeAPI_HostAddress = http://localhost:5118
+
+GET {{TesteZDZCodeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
